@@ -22,3 +22,5 @@
 
     def __repr__(self):
         return f"MySet({self.items})"
+
+mySet = MySet([])
